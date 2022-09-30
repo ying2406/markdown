@@ -1,7 +1,7 @@
 # Project name: les 06 MARKDOWN
 
 ## Noodles recept
-[!](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CUP_NOODLE_Light%2C_3_flavors%2C_198_kcal.jpg/640px-CUP_NOODLE_Light%2C_3_flavors%2C_198_kcal.jpg)
+![noodles](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CUP_NOODLE_Light%2C_3_flavors%2C_198_kcal.jpg/640px-CUP_NOODLE_Light%2C_3_flavors%2C_198_kcal.jpg)
 
 ### Bereiding
 >1. Breng een grote pot water aan de kook en voeg een snufje zout toe. 
